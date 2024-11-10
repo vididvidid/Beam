@@ -1,4 +1,4 @@
-
+![YoutbeFreeDistraction](https://github.com/user-attachments/assets/cbe4d423-f066-4c92-a1f4-e110bd4da0ab)
 
 # Beam - Illuminate What Matters 🌌
 
@@ -6,7 +6,7 @@
 
 Welcome to **Beam**.
 
-[![Video Thumbnail](https://img.youtube.com/vi/f6VnDJXeXIc/maxresdefault.jpg)](https://youtu.be/f6VnDJXeXIc)
+[![Video Thumbnail](https://github.com/vididvidid/Beam/blob/main/Beam/YoutbeFreeDistraction.png)](https://youtu.be/f6VnDJXeXIc)
 
 
 ## Why Beam?
