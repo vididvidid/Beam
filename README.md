@@ -1,4 +1,3 @@
-![YoutbeFreeDistraction](https://github.com/user-attachments/assets/cbe4d423-f066-4c92-a1f4-e110bd4da0ab)
 
 # Beam - Illuminate What Matters 🌌
 
