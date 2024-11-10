@@ -6,6 +6,9 @@
 
 Welcome to **Beam**.
 
+[![Video Thumbnail](https://img.youtube.com/vi/f6VnDJXeXIc/maxresdefault.jpg)](https://youtu.be/f6VnDJXeXIc)
+
+
 ## Why Beam?
 The world is full of distractions. Apps, websites, notifications—everywhere you turn, something is fighting for your attention. But let’s imagine a world where your technology is truly designed for you. A world where you choose your focus, and every interaction on your screen is precisely what you need, nothing more, nothing less.
 
@@ -21,23 +24,22 @@ Beam gives you back control. No more wandering through endless feeds. Beam under
 ### Beam Brings You:
 1. **Real-Time Content Customization**  
    - Imagine opening YouTube, and seeing only what’s relevant to you. No clutter, no noise—just what matters.
-   
-   ![Real-Time Content Customization](link_to_image_here)
+   - 
+   ![Screenshot 2024-11-10 095242](https://github.com/user-attachments/assets/bcf234ea-d0d0-4f30-8766-381b141b157a)
 
 2. **Historical Chains of Your Work**  
    - Every project you start is seamlessly connected to your past work. Beam remembers, so you never waste time finding your way back.
 
-   ![Historical Chains](link_to_image_here)
+   ![Screenshot 2024-11-10 100817](https://github.com/user-attachments/assets/d23abe9e-7cec-4050-8a74-4bb608a98283)
+
 
 3. **Your Custom Interface**  
    - A workspace tailored to you: Study mode, Creative mode, Productivity mode—designed for your goals, your preferences, and your success.
 
-   ![Custom Interface](link_to_image_here)
 
 4. **Smart Distraction Management with Deepfake Technology**  
    - Beam doesn’t just blur distractions; it transforms them. It’s like having your own assistant that clears the path so you can stay focused and energized.
 
-   ![Smart Distraction Management](link_to_image_here)
 
 ---
 
@@ -50,7 +52,10 @@ Beam gives you back control. No more wandering through endless feeds. Beam under
       1. Beam processes each image input, whether from photos or video frames.
       2. Beam extracts relevant text data that’s seamlessly integrated into your workspace.
 
-   ![Image-to-Text Example](link_to_image_here)
+   [![Video Thumbnail](https://github.com/vididvidid/Beam/blob/main/Beam/image%20and%20video.png)](https://github.com/vididvidid/Beam/blob/main/Beam/image%20to%20text.mkv)
+
+
+   
 
 ---
 
@@ -63,13 +68,13 @@ Beam gives you back control. No more wandering through endless feeds. Beam under
       4. Beam reassembles the video, selectively blurring frames where unnecessary content is detected.
 
    **Input Video Sample**:
-   ![Input Video](link_to_input_video_here)
+   ![Input Video](https://github.com/vididvidid/Beam/blob/main/Beam/SampleVideoInput.mov)
 
    **Prompt**:
-   > “Only show content relevant to study.”
+   > “If Child Doing yoga Print Yes Otherwise NO”
 
    **Output Video Sample**:
-   ![Output Video](link_to_output_video_here)
+   ![Output Video](https://github.com/vididvidid/Beam/blob/main/Beam/SampleVideoOutput.mp4)
 
 ---
 
@@ -83,13 +88,13 @@ Beam gives you back control. No more wandering through endless feeds. Beam under
       5. **Hot Reloading**: Beam continuously monitors the screen and updates overlays in real time.
 
    **Initial Screen**:
-   ![Initial Screen](link_to_initial_screen_image_here)
+   ![Initial Screen](https://github.com/vididvidid/Beam/blob/main/Beam/Screenshot%202024-11-10%20100504.png)
 
    **Overlay in Progress**:
-   ![Overlay in Progress](link_to_overlay_image_here)
+   ![Overlay in Progress](https://github.com/vididvidid/Beam/blob/main/Beam/OVerlaySample.png)
 
    **Final Screen with Overlay**:
-   ![Final Screen](link_to_final_overlay_image_here)
+   ![Final Screen](https://github.com/vididvidid/Beam/blob/main/Beam/ScreenOverlayDistractionFree.mkv)
 
 ---
 
